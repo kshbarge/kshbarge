@@ -4,7 +4,7 @@ I'm Kathryn, an up-and-coming software developer and an already-there nerd. Than
 
 ## Featured Projects
 
-### NC news ![70% done](https://markdone.org/progress/70.png)
+### [NC news](https://gentle-rabanadas-6dbca4.netlify.app/) ![70% done](https://markdone.org/progress/70.png)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -13,10 +13,10 @@ I'm Kathryn, an up-and-coming software developer and an already-there nerd. Than
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 
-NC News is a CRUD app designed to mimic the experience of a user on a social media site such as Reddit. It was created as part of the Northcoders bootcamp, and has a production version hosted that you can navigate and interact with.  
+NC News is a CRUD app designed to mimic the experience of a user on a social media site such as Reddit. It was created as part of the Northcoders bootcamp, and has a production version hosted that you can navigate and interact with. I'll be continually updating this repository after the course to keep my experience with this stack recent!  
 
 
-### WIZR ![95% done](https://markdone.org/progress/95.png)    
+### [WIZR](https://heroic-hotteok-38d31a.netlify.app/) ![95% done](https://markdone.org/progress/95.png)    
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
