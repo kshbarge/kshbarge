@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Finlandica&size=30&pause=1000&color=383F45&background=73787C00&vCenter=true&repeat=false&width=435&lines=Hello%2C+world!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Finlandica&size=30&pause=1000&color=FFCB12&vCenter=true&repeat=false&width=435&lines=Hello%2C+world!)](https://git.io/typing-svg)  
 
 I'm Kathryn, an up-and-coming software developer and an already-there nerd. Thank you for making your way to my github profile! Why not take a look at some of these projects?
 
