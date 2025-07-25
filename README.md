@@ -16,7 +16,7 @@ I'm Kathryn, an up-and-coming software developer and an already-there nerd. Than
 NC News is a CRUD app designed to mimic the experience of a user on a social media site such as Reddit. It was created as part of the Northcoders bootcamp, and has a production version hosted that you can navigate and interact with. I'll be continually updating this repository after the course to keep my experience with this stack recent!  
 
 
-### [WIZR](https://heroic-hotteok-38d31a.netlify.app/) ![95% done](https://markdone.org/progress/95.png)    
+### [WIZR](https://www.northcoders.com/blog/wizr/) ![100% done](https://markdone.org/progress/100.png)    
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
