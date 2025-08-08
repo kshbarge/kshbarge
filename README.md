@@ -13,7 +13,7 @@ I'm Kathryn, an up-and-coming software developer and an already-there nerd. Than
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 
-NC News is a CRUD app designed to mimic the experience of a user on a social media site such as Reddit. It was created as part of the Northcoders bootcamp, and has a production version hosted that you can navigate and interact with. I'll be continually updating this repository after the course to keep my experience with this stack recent!  
+NC News is a CRUD app designed to mimic the experience of a user on a social media site such as Reddit. It was created as part of the Northcoders bootcamp, and has a production version hosted that you can navigate and interact with. I'll be continually updating this repository after the course to keep my experience with this stack recent! (Articles and topic lists may take some time to load due to render's spin-up time)
 
 
 ### [WIZR](https://www.northcoders.com/blog/wizr/) ![100% done](https://markdone.org/progress/100.png)    
